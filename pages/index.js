@@ -12,8 +12,8 @@ function Page({ datalist }) {
   return (
     <div>
 
-      <h1>All Albums</h1>
-      <table>
+      <h1>All Meeting Data</h1>
+      <table class="styled-table">
         <thead>
           <tr>
             <th>Sr</th>
